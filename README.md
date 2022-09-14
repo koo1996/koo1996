@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chairmankoo)](https://solved.ac/chairmankoo)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=koo1996)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
