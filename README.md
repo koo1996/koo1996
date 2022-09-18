@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome koo's Github%20&fontSize=90)
 <!--
 **koo1996/koo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=koo1996)](https://github.com/ryo-ma/github-profile-trophy)
+
+📖Studying📖
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
