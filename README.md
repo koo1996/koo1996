@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 ![koo1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=koo1996&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koo1996&layout=Demo&theme=onedark)
 
 <h3 align="center">📚 BOJ 📚</h3>
+<div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chairmankoo)](https://solved.ac/chairmankoo)
+</div>
 
+<h3 align="center">🤔 My Github 🤔</h3>
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=koo1996)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <h3 align="center">📖 Studying 📖</h3>
 <p align="center">
