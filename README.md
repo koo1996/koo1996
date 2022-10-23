@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=koo1996%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 <!--
 **koo1996/koo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![koo1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=koo1996&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welcome &layout=Demo&theme=onedark)
+![koo1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=koo1996&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koo1996&layout=Demo&theme=onedark)
 
 <h3 align="center">📚 BOJ 📚</h3>
 <div align="center">
