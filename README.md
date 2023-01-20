@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">💬 koo1996's GitHub 💬</h3>
 <div align="center">
-![koo1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=koo1996&show_icons=true&theme=Gradient) 
+  
+![koo1996's GitHub stats](https://github-readme-stats.vercel.app/api?username=koo1996&show_icons=true&theme=Gradient)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koo1996&layout=Demo&theme=Gradient)
 
 <h3 align="center">📚 BOJ 📚</h3>
