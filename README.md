@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <h3 align="center">🤔 My Github  🤔</h3>
 <div align="center">
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=koo1996)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
